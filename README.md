@@ -1,4 +1,4 @@
-#Math Note for Game Dev
+# Math Note for Game Dev
 
 *by 老G （qq 233424570）*
 
